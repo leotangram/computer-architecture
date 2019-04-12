@@ -1,0 +1,4 @@
+Comandos que usé para crear el lenguaje ensamblador:
+gcc primos.cpp -lstdc++
+gcc -c primos.cpp -lstdc++
+gcc -S primos.cpp -lstdc++
